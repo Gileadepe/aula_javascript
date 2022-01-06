@@ -1,0 +1,10 @@
+var nome = "Gileade Cavalcante";
+var n1 = 8;
+var n2 = 7;
+var frase = "Alemanha é o melhor time do mundo";
+//alert(nome + " Tem "+ idade + " anos");
+//alert(idade + idade2);
+console.log(nome);
+console.log(n1*n2);
+console.log(frase.toLocaleLowerCase());
+//alert(frase.replace("Alemanha", "Brasil"));
